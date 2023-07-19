@@ -21,6 +21,16 @@ sound3.loop = false;
 sound4.loop = false;
 sound5.loop = false;
 
+//USTAWIENIA:
+
+var winPoints = 10;
+
+var fullTime = 30; //ogólny czas
+var warn     = 15; //czas po którym sie kolor na pomaranczowy zmienia
+var almost   = 7; //czas po którym sie kolor na czerwony zmienia
+var end = 0; //end NIE ZMIENIAĆ 
+
+
 var element = document.getElementById('#mainSpot');
 var g = canvas.getContext('2d');
 var success = false;
@@ -73,11 +83,6 @@ var fastDown = false;
 
 var grid = [];
 var scoreboard = new Scoreboard();
-
-var fullTime = 30;
-var warn     = 15;
-var almost   = 7;
-var end = 0;
 
 var currTime = fullTime;
 
@@ -526,7 +531,7 @@ function drawUI() {
     });
     g.translate(-cx, -cy);
 
-    if(scoreboard.getScore() >= 10)
+    if(scoreboard.getScore() >= winPoints)
     {
         fetchSuccess();
         scoreboard.undoScore(100);
