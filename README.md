@@ -1,17 +1,17 @@
 
-
+<h1 align="center"></h1>
 <h1 align="center">🎮 TETRIS 🎮</h1>
 
 MiniGierka TETRIS wykonana w Fivem :D
 
-## 📺 Przykłady:
+## <h1 align="center">📺 Przykłady:</h1> 
 
 ![App Screenshot](https://cdn.discordapp.com/attachments/817356849187651624/1131254713006960760/image.png)
 
 #### PRZYKŁADOWE VIDEO 
 [![Watch the video](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596dda8d77553.png)](https://www.youtube.com/watch?v=ip06DJZldYs)
 
-## ⚠️ Co jest potrzebne? / co zostało użyte?
+##  <h1 align="center">⚠️ Co jest potrzebne? / co zostało użyte?</h1>
 
 - qTarget (albo jakiś inny target)
 - ESX.ShowNotification
@@ -19,7 +19,7 @@ MiniGierka TETRIS wykonana w Fivem :D
 
 
 
-## 🪛 Komendy 
+## <h1 align="center">🪛 Komendy</h1>
 
 Dostępne komendy:
 
@@ -27,7 +27,7 @@ Dostępne komendy:
     /tetrisGame
 ```
 
-## ❤️ Export też dostępny! 
+## <h1 align="center">❤️ Export też dostępny!</h1>
 
 Przykładowe użycie exporta
 
@@ -43,7 +43,7 @@ Twój kod:
 ```
 
 
-## 🔧 Ustawienia
+## <h1 align="center">🔧 Ustawienia</h1>
 
 #### Score
 
@@ -70,21 +70,21 @@ Wszystkie rzeczy typu co się stanie jak sie uda minigierkę też można ustawi�
 Można też ustawić co potrzeba do wykonania minigierki czy coś, ale to już baw się sam :D 
 
 
-## ⁉️ PYTANIA I PROBLEMY? 
+## <h1 align="center">⁉️ PYTANIA I PROBLEMY?</h1>
 
 #### napisz do mnie na dc:
 
 lucekrk
 
-## 🐿 Autorzy
+## <h1 align="center">🐿 Autorzy</h1>
 
 
 - [lucekrk](https://github.com/lucekrk)
 - [rosettacode.org](https://rosettacode.org)
 
-## 🌞 Główny kod JS tetrisa:
+## <h1 align="center">🌞 Główny kod JS tetrisa:</h1>
 - [rosettacode.org](https://rosettacode.org/wiki/Tetris/JavaScript)
 
-## 🛎 License 
+## <h1 align="center">🛎 License</h1>
 
 [MIT](https://choosealicense.com/licenses/mit/)
