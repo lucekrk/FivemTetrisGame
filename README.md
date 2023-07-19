@@ -8,7 +8,7 @@ MiniGierka TETRIS wykonana w Fivem :D
 ![App Screenshot](https://cdn.discordapp.com/attachments/817356849187651624/1131254713006960760/image.png)
 
 #### PRZYKŁADOWE VIDEO 
-[![Watch the video](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596dda8d77553.png)](tu dac link do video)
+[![Watch the video](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596dda8d77553.png)](https://www.youtube.com/watch?v=ip06DJZldYs)
 
 ## ⚠️ Co jest potrzebne? / co zostało użyte?
 
@@ -55,11 +55,18 @@ poradnik:
 
 #### Czas
 
+Można ustawić `czas` jaki jest dostępny podczas minigierki
 
 poradnik:
 | Plik |  Co trzeba zrobić?    | Co wyszukać?               |
 | :-------- | :------- | :------------------------- |
 | `ui/script.js` | `wyszukać w pliku` | `fullTime` |
+
+#### Client.Lua
+
+Wszystkie rzeczy typu co się stanie jak sie uda minigierkę też można ustawić w Cliencie poprzez event `udane()` (nie polecam bawić się w evencie 'nieudane()')
+
+Można też ustawić co potrzeba do wykonania minigierki czy coś, ale to już baw się sam :D 
 
 
 ## ⁉️ PYTANIA I PROBLEMY? 
