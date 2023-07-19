@@ -1,5 +1,6 @@
 
-## 🎮 TETRIS 🎮
+
+<h1 align="center">🎮 TETRIS 🎮</h1>
 
 MiniGierka TETRIS wykonana w Fivem :D
 
@@ -87,4 +88,5 @@ lucekrk
 ## 🛎 License 
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
+## .
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lucekrk&label=Profile%20views&color=0e75b6&style=flat" alt="lucekrk" /> </p>
