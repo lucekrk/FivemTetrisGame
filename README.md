@@ -67,7 +67,7 @@ poradnik:
 
 Wszystkie rzeczy typu co się stanie jak sie uda minigierkę też można ustawić w Cliencie poprzez event `udane()` (nie polecam bawić się w evencie 'nieudane()')
 
-Można też ustawić co potrzeba do wykonania minigierki czy coś, ale to już baw się sam :D 
+Można też ustawić co potrzeba do wykonania minigierki czy ustawić jakiś inny polyZone, ale to już baw się sam :D 
 
 
 ## <h1 align="center">⁉️ PYTANIA I PROBLEMY?</h1>
