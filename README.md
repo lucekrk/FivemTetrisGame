@@ -52,7 +52,6 @@ Twój kod / Your Code:
 ```
 
 
-## <h1 align="center">🔧 Ustawienia</h1>
 ## <h1 align="center">🔧 Ustawienia / Settings</h1>
 
 #### Score
@@ -74,3 +73,14 @@ poradnik:
 #### Client.Lua
 
 Wszystkie rzeczy typu co się stanie jak sie uda minigierkę też można ustawić w Cliencie poprzez event `udane()` (nie polecam bawić się w evencie 'nieudane()')
+Można też ustawić co potrzeba do wykonania minigierki czy ustawić jakiś inny polyZone, ale to już baw się sam :D 
+## <h1 align="center">⁉️ PYTANIA I PROBLEMY?</h1>
+#### napisz do mnie na dc:
+lucekrk
+## <h1 align="center">🐿 Autorzy</h1>
+- [lucekrk](https://github.com/lucekrk)
+- [rosettacode.org](https://rosettacode.org)
+## <h1 align="center">🌞 Główny kod JS tetrisa:</h1>
+- [rosettacode.org](https://rosettacode.org/wiki/Tetris/JavaScript)
+## <h1 align="center">🛎 License</h1>
+[MIT](https://choosealicense.com/licenses/mit/)
